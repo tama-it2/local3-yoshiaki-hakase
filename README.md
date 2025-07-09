@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ljeawwh6)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19882484&assignment_repo_type=AssignmentRepo)
 # ローカルリポジトリ管理演習３
 
 ## 課題説明
@@ -10,12 +12,12 @@
 - 最終的に、github 上の main ブランチに、３回以上の merge が記録されていれば、課題をクリアしたことになります。
 
 ### 多摩大学の講義で面白かったもの
-- （講義名）←ここ書き換え
-- （面白かった点）←ここ書き換え
+- 地域政策プランニング
+- 地域の政策を学んだ後、日本の抱える問題について自分で政策を考えたこと。
 
 ### 最近ゼミでやっていること
-- （活動の内容）←ここ書き換え
+- 読売新聞の社説を読み、それについての要約と自分の意見を書くこと。
 
-### 最近面白いと思った（ゲーム・配信・テレビ・小説……など）
-- （タイトル）←ここ書き換え
-- （面白いと思った点）←ここ書き換え
+### 最近面白いと思ったアニメ
+- STEINS;GATE
+- 14年前にアニメ化された作品。昨今ではよくあるタイムリープ系のアニメの火付け役で、内容もしっかりしていてよかった。主人公の性格が変わっていく様が視聴者に伝わり手に汗握る展開が多かった。
